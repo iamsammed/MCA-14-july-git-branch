@@ -1,0 +1,3 @@
+password = root
+username = root
+email =sammedpatil125@gmail.com
